@@ -1,0 +1,69 @@
+eqal|equals(Object arg0) : boolean|java
+brea|break|java
+sout|sout|java
+messa|message : String|java
+break|break|java
+nextByt|nextByte() : byte|java
+nextL|nextLine() : String|java
+String|String|java
+Scann|Scanner(Path source)|java
+Scanner|Scanner|java
+true|true|java
+w|while|snippets
+whi|while|java
+clo|close() : void|java
+dout|dout : DataOutputStream|java
+nextLin|nextLine() : String|java
+in|in : InputStream|java
+Syste|System|java
+Scann|Scanner(InputStream source)|java
+Sys|System|java
+Scann|Scanner|java
+messag|message : String|java
+PrintWr|PrintWriter|java
+PrintW|PrintWriter|java
+main|main|snippets
+class|class|java
+pu|public|java
+new|new|snippets
+PrintWri|PrintWriter(File file)|java
+Prin|PrintWriter|java
+PrintStrea|PrintStream|java
+print|PrintWriter|java
+client|client|around
+clos|close() : void|java
+cl|close() : void|java
+flush|flush() : void|java
+writeUT|writeUTF(String str) : void|java
+getOut|getOutputStream() : OutputStream|java
+tr|try_catch|snippets
+getOu|getOutputStream() : OutputStream|java
+data|DataOutputStream(OutputStream out)|java
+DataOutputSt|DataOutputStream|java
+DataOu|DataOutput|java
+So|Socket()|java
+Soc|Socket|java
+main|main(String[] args) : void|java
+mai|main(String[] args) : void|java
+sout|soutm|java
+so|sout|java
+s|s : Socket|java
+in|inoremap|around
+sou|sout|java
+re|readUTF() : String|java
+tit|title|around
+DataInpu|DataInputStream(InputStream in)|java
+DataIn|DataInputStream(InputStream in)|java
+ac|accept() : Socket|java
+ServerSocket|ServerSocket()|java
+Server|ServerSocket|java
+pri|println() : void|java
+col|color|css
+forEl|forElement|around
+h|h1|html
+p|p|html
+clas|class|java
+cl|class|java
+ma|main|snippets
+mai|main|snippets
+for|fori|snippets
