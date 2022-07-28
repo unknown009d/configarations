@@ -224,8 +224,8 @@ gaps outer 6
 # -- Wallpaper Set --
 exec feh --bg-scale ~/Pictures/Wallpaper/5.png
 # -- Resize the resolution --
-#exec xrandr --output eDP1 --primary --mode 1366x768 --pos 0x0 --rotate normal --output HDMI1 --off --output VIRTUAL1 --off
-exec xrandr --output eDP1 --off --output HDMI1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off
+exec xrandr --output eDP1 --primary --mode 1366x768 --pos 0x0 --rotate normal --output HDMI1 --off --output VIRTUAL1 --off
+#exec xrandr --output eDP1 --off --output HDMI1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off
 # -- Compositing -- 
 exec picom --experimental-backends
 #exec picom
