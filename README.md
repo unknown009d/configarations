@@ -9,7 +9,7 @@ It contains all the config files from my deivce...
 - libgestures (for Gesture control)
 - i3lock / i3color (Lockscreen)
 - picom (for composition)
-- xrandr (screen size set default to 1366x768
+- xrandr (screen size set default to 1366x768)
 - autotiling
 
 # Screenshots
