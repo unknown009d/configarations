@@ -6,4 +6,4 @@ It contains all the config files from my deivce...
 ### Clean Desktop Look
 ![Clean Desktop Looks](Pictures/ScreenShot1.png "i3wm")
 ### Usage 
-![Desktop Looks](Pictures/ScreenShot2.png "i3wm with applications")
+![Desktop Looks](Pictures/Screenshot2.png "i3wm with applications")
